@@ -1,0 +1,16 @@
+{
+  "name": "dbreplicator",
+  "version": "1.0.0",
+  "description": "Replicated middleman db to main db",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Azara",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mariadb": "^3.3.1",
+    "sequelize": "^6.37.3"
+  }
+}
