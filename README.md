@@ -73,4 +73,4 @@ The `website_bans` table schema used in both the middleman and live databases is
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](license.md) file for details.
